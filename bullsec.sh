@@ -1,6 +1,6 @@
 clear
 mkdir Tools
-clear 
+clear
 echo -e '\033[31;40;1m 
 ██████╗ ██╗   ██╗██╗     ██╗     ███████╗███████╗ ██████╗
 ██╔══██╗██║   ██║██║     ██║     ██╔════╝██╔════╝██╔════╝
@@ -15,7 +15,7 @@ echo -e '\033[31;40;1m
 \e[37m[1]\e[36m Requirements and Update       \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m Subscan			
 \e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
-\e[37m[7]\e[36m How to use it?	          \e[37m[8]\e[36m Install and Download Tools
+\e[37m[7]\e[36m How to use it?	          \e[37m[8]\e[36m Removed Installed Tools
 \e[37m[9]\e[36m Ip Info	                  \e[37m[10]\e[36m dorks-eye
 \e[37m[11]\e[36m HackerPro                    \e[37m[12]\e[36m RED_HAWK
 \e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
@@ -58,8 +58,8 @@ clear
 echo -e "\033[47;3;35m Installing...\033[0m"
 sleep 3
 cd Tools
-git clone https://github.com/techchipnet/CamPhish
-cd CamPhish
+git clone https://github.com/AceBreaker-cell/EyesOnAll
+cd EyesOnAll
 bash camphish.sh
 
 elif [[ $islem == 4 || $islem == 04 ]]; then
