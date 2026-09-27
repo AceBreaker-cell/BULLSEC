@@ -10,6 +10,7 @@ echo -e '\033[31;40;1m
 ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚══════╝ ╚═════╝
   Coded by Albatany | BREAK THE LIMITS | BULLSEC
   github: https://github.com/AceBreaker-cell
+  
 \033[33;4mVersion:\033[0m ???            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Albatany
 
 \e[37m[1]\e[36m Requirements and Update       \e[37m[2]\e[36m Phishing Tool				
@@ -156,9 +157,9 @@ clear
 echo -e "\033[47;3;35m The installation might take some time.\033[0m"
 sleep 3
 cd Tools
-git clone https://github.com/Tuhinshubhra/RED_HAWK
-cd RED_HAWK
-php rhawk.php
+git clone https://github.com/AceBreaker-cell/WebEagle
+cd WebEagle
+php webeagle.php
 
 elif [[ $islem == 13 || $islem == 013 ]]; then
 clear
