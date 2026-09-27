@@ -13,7 +13,9 @@ Then `<git clone https://github.com/AceBreaker-cell/BULLSEC/>`
 
 `<bash bullsec.sh>`
 
-*[Option2]* `chmod +x bullsec.sh` then `./bullsec.sh`
+## *[Option2]* 
+
+`chmod +x bullsec.sh` then `./bullsec.sh`
 
 
 # *OPERATING SYSTEM SUPPORTED.*
