@@ -20,7 +20,7 @@ echo -e '\033[31;40;1m
 \e[37m[9]\e[36m Ip Info	                  \e[37m[10]\e[36m dorks-eye
 \e[37m[11]\e[36m HackerPro                    \e[37m[12]\e[36m RED_HAWK
 \e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
-\e[37m[15]\e[36m BadMod	                  \e[37m[16]\e[36m Facebash
+\e[37m[15]\e[36m SeeNoEvil	                  \e[37m[16]\e[36m Facebash
 \e[37m[17]\e[36m DARKARMY                     \e[37m[18]\e[36m AUTO-IP-CHANGER
 '
 
@@ -193,11 +193,11 @@ cd Tools
 sudo apt-get update
 sudo apt-get install php
 sudo apt-get install php-curl
-git clone https://github.com/MrSqar-Ye/BadMod.git
-cd BadMod
+git clone https://github.com/AceBreaker-cell/SeeNoEvil
+cd SeeNoEvil
 chmod u+x INSTALL
-chmod u+x BadMod.php
-sudo php BadMod.php
+chmod u+x SeeNoEvil.php
+sudo php SeeNoEvil.php
 
 elif [[ $islem == 16 || $islem == 016 ]]; then
 clear
