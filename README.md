@@ -13,7 +13,7 @@ Then `<git clone https://github.com/AceBreaker-cell/BULLSEC/>`
 
 `<bash bullsec.sh>`
 
-## *[Option2]* 
+## *Option 2: If you didn't wanted too complex* 
 
 `chmod +x bullsec.sh` then `./bullsec.sh`
 
